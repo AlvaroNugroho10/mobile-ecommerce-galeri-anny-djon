@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1047340864700",
+    "project_id": "galeri-anny-djon",
+    "storage_bucket": "galeri-anny-djon.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047340864700:android:125a9650e83c10eebdecb9",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAFUR3bhXUUF7R2cZ2hlpQlHJtoNlTB_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
